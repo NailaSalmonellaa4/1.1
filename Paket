@@ -1,3 +1,4 @@
+Program ini digunakan untuk menghitung berat paket,jarak tempuh,panjang paket,lebar paket,tinggi paket
 Scanner digunakan untuk membaca input dari pengguna.
 volume dihitung dari panjang x lebar x tinggi 
 biaya per kg ditentukan berdasarkan jarak (<==10km -> Rp 4250, > 10 km -> Rp 6000)
